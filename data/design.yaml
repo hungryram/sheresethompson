@@ -84,5 +84,5 @@ colors:
   button_background_colors: "#A98C53"
   header_background_color: "#0B1723"
   navigation_link_color: "#BA0000"
-  enable_black_menu_items: false
+  enable_black_menu_items: true
 upload_image: ''
