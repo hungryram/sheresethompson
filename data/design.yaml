@@ -1,7 +1,7 @@
 ---
 logo_or_title:
-  upload_logo: "/uploads/black-white-white-bg-1227.jpg"
-  title: Real Estate Sample
+  upload_logo: "/uploads/1227-investment-group_transparent.png"
+  title: 1227 Investment Group Real Estate
   favicon: ''
 main_image:
   hero_subtitle: '"Invest In Your Future"'
@@ -80,9 +80,9 @@ footer:
   footer_background_image: "/uploads/shutterstock_43273009.jpg"
   enable_black_text: false
 colors:
-  text_link_colors: rgb(169, 140, 83)
-  button_background_colors: "#A98C53"
-  header_background_color: "#0B1723"
+  text_link_colors: rgb(123, 123, 123)
+  button_background_colors: "#000000"
+  header_background_color: "#FFFFFF"
   navigation_link_color: "#BA0000"
   enable_black_menu_items: true
 upload_image: ''
