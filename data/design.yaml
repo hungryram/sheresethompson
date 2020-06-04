@@ -1,6 +1,6 @@
 ---
 logo_or_title:
-  upload_logo: "/uploads/1227-investment-group_transparent3.png"
+  upload_logo: "/uploads/whitelogo.png"
   title: 1227 Investment Group Real Estate
   favicon: ''
 main_image:
@@ -82,7 +82,7 @@ footer:
 colors:
   text_link_colors: rgb(123, 123, 123)
   button_background_colors: "#000000"
-  header_background_color: "#FFFFFF"
+  header_background_color: "#000000"
   navigation_link_color: "#BA0000"
-  enable_black_menu_items: true
+  enable_black_menu_items: false
 upload_image: ''
